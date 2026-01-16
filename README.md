@@ -20,6 +20,10 @@
 
 ---
 
+**in some cases **: total time is up to 40 ms to 80ms
+![Uploading image.png…]()
+
+
 ## 🎯 Table of Contents
 
 1. [System Overview](#system-overview)
@@ -699,6 +703,9 @@ void testConcurrentIngestion() throws InterruptedException {
 ```
 
 ---
+### screen shot of all test cases in terminal
+<img width="1351" height="494" alt="image" src="https://github.com/user-attachments/assets/511db232-b8d5-4b9d-9e26-1cc814974888" />
+
 
 ## Setup & Run Instructions
 
