@@ -135,7 +135,13 @@ Measure-Command {
 
 
 
-<img width="1337" height="621" alt="image" src="https://github.com/user-attachments/assets/5f404b0e-ceec-4c71-bcc5-15b316233fa1" />
+
+
+
+
+
+<img width="487" height="266" alt="image" src="https://github.com/user-attachments/assets/a33ce70e-3712-4202-a213-468dc85c4214" />
+
 
 
 
@@ -186,5 +192,6 @@ CREATE INDEX idx_event_time ON events(event_time);
 ✅ System meets the assignment performance target
 ✅ Batch insert of 1000 events completes under **1 second**
 ✅ Thread-safe under concurrent requests
+
 
 
