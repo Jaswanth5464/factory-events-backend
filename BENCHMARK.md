@@ -66,7 +66,12 @@ src/test/resources/events_1000.json
 ✅ **Final Result:**  
 ✅ 1000 events processed well under **1 second**  
 ✅ Requirement satisfied ✅
-![img.png](img.png)
+
+
+
+<img width="1091" height="562" alt="image" src="https://github.com/user-attachments/assets/1eeaaa72-b08e-47dc-9032-6ccc96b15f3d" />
+
+
 ---
 
 ## 4) 🚀 API Benchmark (Curl Test)
@@ -122,14 +127,16 @@ Measure-Command {
 
 
 
-![img_1.png](img_1.png)
+<img width="1337" height="621" alt="image" src="https://github.com/user-attachments/assets/cc4f825c-bb39-4015-8df8-cc4246c2966f" />
 
 
 
 
 
 
-![img_2.png](img_2.png)
+
+<img width="1337" height="621" alt="image" src="https://github.com/user-attachments/assets/5f404b0e-ceec-4c71-bcc5-15b316233fa1" />
+
 
 
 
@@ -179,4 +186,5 @@ CREATE INDEX idx_event_time ON events(event_time);
 ✅ System meets the assignment performance target
 ✅ Batch insert of 1000 events completes under **1 second**
 ✅ Thread-safe under concurrent requests
+
 
