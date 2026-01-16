@@ -19,7 +19,7 @@
 | **Test Coverage** | 8 tests | **8 tests** | ✅ **All passing** |
 
 
-**in some cases **: total time is up to 40 ms to 80ms
+   in some cases : total time is up to 40 ms to 80ms
 
 
 
