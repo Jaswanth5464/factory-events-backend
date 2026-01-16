@@ -19,9 +19,11 @@
 | **Test Coverage** | 8 tests | **8 tests** | ✅ **All passing** |
 
 
-   in some cases : total time is up to 40 ms to 80ms
+   in some cases : total time is up to 40 ms to 80ms   
 
+   ## ✅ Benchmark Result (1000 batch ingestion)
 
+   
 
 <img width="892" height="438" alt="image" src="https://github.com/user-attachments/assets/f5de2e3f-2b3e-45b2-b116-c318a3c72537" />
 ---
